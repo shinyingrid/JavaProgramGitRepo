@@ -2,6 +2,7 @@ package ArrayPrograms;
 
 public class ArrayReversal {
 
+	//ArrayReversal
 	public static void main(String[] args) 
 	{
 		int[] a= {20,45,6,39,10};
